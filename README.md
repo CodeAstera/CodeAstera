@@ -6,7 +6,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codeastera&label=Profile%20views&color=0e75b6&style=flat)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codeastera)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
