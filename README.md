@@ -10,7 +10,7 @@
 </div>
 
 - 🔭 We're currently working on [Code Astera](https://www.codeastera.com)
-- 🌱 We're currently building the next-gen **services platform**
+- 🌱 We're building the next-gen **services platform**
 - 👯 We're looking to build projects for **passionate clients wanting to skyrocket their businesses**
 - 👀 We're interested in **Web Development, Web Design, Blockchain, Cloud Services**
 - 💬 Ask us about **everything tech**
