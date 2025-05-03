@@ -3,9 +3,10 @@
 # 👋 We're CodeAstera
 
 ### A passionate IT Services brand from the heart of Raipur, India
-
+<div align="left">
+	
 ![Profile Views](https://komarev.com/ghpvc/?username=codeastera&label=Profile%20views&color=0e75b6&style=flat)
-
+</div>
 
 </div>
 
@@ -77,11 +78,3 @@
 </table>
 
 <br/>
-
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=codeastera&show_icons=true&locale=en" alt="codeastera" />
-</div>
-
-<div>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=codeastera" alt="codeastera" />
-</div>
